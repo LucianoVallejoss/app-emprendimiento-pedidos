@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#E05D84"               # Rosa pastel fuerte para botones, bordes y foco
+backgroundColor = "#FFF5F7"            # Fondo general rosa pastel muy claro
+secondaryBackgroundColor = "#FCE4EC"   # Fondo de la barra lateral y tarjetas
+textColor = "#4A3B40"                  # Color del texto para óptima lectura
+font = "sans serif"
